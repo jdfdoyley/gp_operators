@@ -74,5 +74,17 @@ public class OperatorsDataTypes
 
         int sum = intVal1 + intVal2;
         Console.WriteLine("The sum of {0:D} and {1:D} is {2:D}.", intVal1, intVal2, sum);
+
+        // Get 2 floating-point values from the user and add them together
+        Console.Write("Enter a floating point value: ");
+        val = Console.ReadLine();
+        double fltVal1 = Convert.ToDouble(val);
+
+        Console.Write("Enter a second floating point value: ");
+        val = Console.ReadLine();
+        double fltVal2 = Convert.ToDouble(val);
+
+        double total = fltVal1 + fltVal2;
+        Console.WriteLine("The sum of {0:F3} and {1:F3} is {2:F3}.", fltVal1, fltVal2, total);
     }
 }
