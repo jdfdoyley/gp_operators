@@ -39,5 +39,11 @@ public class OperatorsDataTypes
         {
             Console.WriteLine("{0:D} is less than {1:D}", intVal1, intVal3);
         }
+
+        // Greater Than
+        if (intVal2 > intVal1)
+        {
+            Console.WriteLine("{0:D} is greater than {1:D}", intVal3, intVal1);
+        }
     }
 }
