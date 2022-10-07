@@ -16,5 +16,16 @@ public class OperatorsDataTypes
         // Print a header line
         Console.WriteLine("\nJason D'Oyley - Week 1 GP Operators & Data Types\n");
 
+        // Declare 3 integer values
+        int intVal1 = 0;
+        int intVal2 = 5;
+        int intVal3 = 5;
+
+        // Demonstrate comparison operators
+        // Equality
+        if (intVal2 == intVal3)
+        {
+            Console.WriteLine("{0:D} is equal to {1:D}", intVal2, intVal3);
+        }
     }
 }
