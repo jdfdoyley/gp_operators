@@ -57,5 +57,22 @@ public class OperatorsDataTypes
         {
             Console.WriteLine("{0:D} is greater than or equal to {1:D}", intVal2, intVal3);
         }
+
+        // Get 2 integer values from the user and add them togther
+        Console.Write("Enter an integer value: ");
+
+        // Get a value from the user - note that we declare "val" as
+        // string? rather than string - the? means that the type can
+        // be null; if we don't do that a warning is generated when
+        // compiling
+        string? val = Console.ReadLine();
+        intVal1 = Convert.ToInt32(val);
+
+        Console.Write("Enter a second integer value: ");
+        val = Console.ReadLine();
+        intVal2 = Convert.ToInt32(val);
+
+        int sum = intVal1 + intVal2;
+        Console.WriteLine("The sum of {0:D} and {1:D} is {2:D}.", intVal1, intVal2, sum);
     }
 }
