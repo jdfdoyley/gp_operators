@@ -27,5 +27,11 @@ public class OperatorsDataTypes
         {
             Console.WriteLine("{0:D} is equal to {1:D}", intVal2, intVal3);
         }
+
+        // Inequality
+        if (intVal1 != intVal3)
+        {
+            Console.WriteLine("{0:D} is not equal to {1:D}", intVal1, intVal3);
+        }
     }
 }
