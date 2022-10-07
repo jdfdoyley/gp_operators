@@ -33,5 +33,11 @@ public class OperatorsDataTypes
         {
             Console.WriteLine("{0:D} is not equal to {1:D}", intVal1, intVal3);
         }
+
+        // Less Than
+        if (intVal1 < intVal3)
+        {
+            Console.WriteLine("{0:D} is less than {1:D}", intVal1, intVal3);
+        }
     }
 }
