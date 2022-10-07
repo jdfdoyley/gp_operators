@@ -9,3 +9,12 @@
  * via the console, add the numbers received, and print the results of
  * each operation performed.
  */
+public class OperatorsDataTypes
+{
+    static void Main(string[] args)
+    {
+        // Print a header line
+        Console.WriteLine("\nJason D'Oyley - Week 1 GP Operators & Data Types\n");
+
+    }
+}

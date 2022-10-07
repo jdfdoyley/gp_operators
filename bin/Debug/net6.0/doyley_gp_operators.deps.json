@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "doyley_gp_operators/1.0.0": {
+        "runtime": {
+          "doyley_gp_operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "doyley_gp_operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

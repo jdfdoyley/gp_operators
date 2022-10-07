@@ -1,0 +1,15 @@
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/bin/Debug/net6.0/doyley_gp_operators
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/bin/Debug/net6.0/doyley_gp_operators.deps.json
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/bin/Debug/net6.0/doyley_gp_operators.runtimeconfig.json
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/bin/Debug/net6.0/doyley_gp_operators.dll
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/bin/Debug/net6.0/doyley_gp_operators.pdb
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.csproj.AssemblyReference.cache
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.AssemblyInfoInputs.cache
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.AssemblyInfo.cs
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.csproj.CoreCompileInputs.cache
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.dll
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/refint/doyley_gp_operators.dll
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.pdb
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/doyley_gp_operators.genruntimeconfig.cache
+/Users/jdfd/Desktop/c_sharp_sandbox/CIS214 Source/doyley_gp_operators/obj/Debug/net6.0/ref/doyley_gp_operators.dll
